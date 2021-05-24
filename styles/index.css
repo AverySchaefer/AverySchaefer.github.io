@@ -31,12 +31,26 @@ ul {
     margin: 0;
     padding: 0;
     overflow: auto;
-  }
-
-  .post li {
-    float: left;
+    background-color: white;
   }
 
   .post li h3 {
-    
+    display: none;
+    color: #111;
+    float: left;
+    text-decoration: black;
+  }
+
+  .post li h6 {
+    display: none;
+    color: #111;
+    float: right;
+    text-decoration: black;
+  }
+
+  .post li p {
+    display: none;
+    color: #111;
+    float: left;
+    text-decoration: none;
   }
