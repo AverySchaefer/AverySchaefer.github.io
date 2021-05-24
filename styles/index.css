@@ -35,21 +35,18 @@ ul {
   }
 
   .post li h3 {
-    display: none;
     color: #111;
     float: left;
     text-decoration: black;
   }
 
   .post li h6 {
-    display: none;
     color: #111;
     float: right;
     text-decoration: black;
   }
 
   .post li p {
-    display: none;
     color: #111;
     float: left;
     text-decoration: none;
