@@ -25,29 +25,3 @@ ul {
   .Active {
     background-color: #bfaa6f;
   }
-
-  .post ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: auto;
-    background-color: white;
-  }
-
-  .post li h3 {
-    color: #111;
-    float: left;
-    text-decoration: black;
-  }
-
-  .post li h6 {
-    color: #111;
-    float: right;
-    text-decoration: black;
-  }
-
-  .post li p {
-    color: #111;
-    float: left;
-    text-decoration: none;
-  }
