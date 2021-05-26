@@ -25,3 +25,18 @@ ul {
   .Active {
     background-color: #bfaa6f;
   }
+
+  .post h3 {
+    padding-top: 5px;
+    padding-bottom: 0px;
+  }
+
+  .post h6 {
+    padding-top: 5px;
+    padding-bottom: 0px;
+  }
+
+  .post p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
