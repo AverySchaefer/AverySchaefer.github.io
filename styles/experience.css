@@ -25,11 +25,3 @@
   .Active {
       background-color: #bfaa6f;
   }
-
-  .job ul {
-    list-style-type: disc;
-    margin: 10px;
-    padding: 15px;
-    overflow: initial;
-    background-color: white;
-  }
